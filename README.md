@@ -47,7 +47,8 @@ This project combines a password generator and a minimal password manager. It al
 ## Screenshots
 
 ### 🖥️ Main UI Interface
-![Main GUI](https://github.com/rautpdr/Password_Generator/assets/placeholder/8162e061-9e44-49cc-8a7b-603664ade449.png)
+![Main GUI] ![image](https://github.com/user-attachments/assets/8f2a8323-cf99-47ca-9612-c5703fc93d7e)
+
 
 ### 🔐 Confirmation Popup
 ![Confirmation](https://github.com/rautpdr/Password_Generator/assets/placeholder/439053c7-874a-4255-8f16-84d975274cba.png)
