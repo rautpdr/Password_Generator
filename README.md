@@ -51,8 +51,10 @@ This project combines a password generator and a minimal password manager. It al
 
 
 ### 🔐 Confirmation Popup
-![Confirmation](https://github.com/rautpdr/Password_Generator/assets/placeholder/439053c7-874a-4255-8f16-84d975274cba.png)
+![Confirmation]![image](https://github.com/user-attachments/assets/5715ff27-78cf-4e35-bada-b801e8a3521c)
+
 
 ### 🗂️ Data Stored in Text File
-![Saved Data](https://github.com/rautpdr/Password_Generator/assets/placeholder/616a9f38-b3c5-4cd3-a66e-2f69e86eb7cd.png)
+![Saved Data]![image](https://github.com/user-attachments/assets/38de3904-d64d-4fe7-87eb-ca9344dc5d1e)
+
 
