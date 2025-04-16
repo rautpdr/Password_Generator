@@ -47,14 +47,14 @@ This project combines a password generator and a minimal password manager. It al
 ## Screenshots
 
 ### 🖥️ Main UI Interface
-![Main GUI] ![image](https://github.com/user-attachments/assets/8f2a8323-cf99-47ca-9612-c5703fc93d7e)
+![image](https://github.com/user-attachments/assets/8f2a8323-cf99-47ca-9612-c5703fc93d7e)
 
 
 ### 🔐 Confirmation Popup
-![Confirmation]![image](https://github.com/user-attachments/assets/5715ff27-78cf-4e35-bada-b801e8a3521c)
+![image](https://github.com/user-attachments/assets/5715ff27-78cf-4e35-bada-b801e8a3521c)
 
 
 ### 🗂️ Data Stored in Text File
-![Saved Data]![image](https://github.com/user-attachments/assets/38de3904-d64d-4fe7-87eb-ca9344dc5d1e)
+![image](https://github.com/user-attachments/assets/38de3904-d64d-4fe7-87eb-ca9344dc5d1e)
 
 
